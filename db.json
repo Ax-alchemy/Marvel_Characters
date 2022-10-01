@@ -1,0 +1,1134 @@
+{
+  "characters": [
+    {
+      "id": 1009144,
+      "name": "A.I.M.",
+      "description": "AIM is a terrorist organization bent on destroying the world.",
+      "modified": "2013-10-17T14:41:30-0400",
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52602f21f29ec",
+        "extension": "jpg"
+      },
+      "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+      "comics": {
+        "available": 52,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009144/comics",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36763",
+            "name": "Ant-Man & the Wasp (2010) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17553",
+            "name": "Avengers (1998) #67"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7340",
+            "name": "Avengers (1963) #87"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4214",
+            "name": "Avengers and Power Pack Assemble! (2006) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/63217",
+            "name": "Avengers and Power Pack (2017) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/63218",
+            "name": "Avengers and Power Pack (2017) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/63219",
+            "name": "Avengers and Power Pack (2017) #5"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/63220",
+            "name": "Avengers and Power Pack (2017) #6"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64790",
+            "name": "Avengers by Brian Michael Bendis: The Complete Collection Vol. 2 (Trade Paperback)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1170",
+            "name": "Avengers Vol. 2: Red Zone (Trade Paperback)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1214",
+            "name": "Avengers Vol. II: Red Zone (Trade Paperback)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12787",
+            "name": "Captain America (1998) #28"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7513",
+            "name": "Captain America (1968) #132"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7514",
+            "name": "Captain America (1968) #133"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/65466",
+            "name": "Captain America by Mark Waid, Ron Garney & Andy Kubert (Hardcover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20367",
+            "name": "Defenders (1972) #57"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31068",
+            "name": "Incredible Hulks (2010) #606 (VARIANT)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46168",
+            "name": "Indestructible Hulk (2012) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43944",
+            "name": "Iron Man (2012) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49865",
+            "name": "Iron Man (2012) #1"
+          }
+        ],
+        "returned": 20
+      },
+      "series": {
+        "available": 34,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009144/series",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/13082",
+            "name": "Ant-Man & the Wasp (2010 - 2011)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+            "name": "Avengers (1998 - 2004)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+            "name": "Avengers (1963 - 1996)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/23123",
+            "name": "Avengers and Power Pack (2017)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/1046",
+            "name": "Avengers and Power Pack Assemble! (2006)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/23600",
+            "name": "Avengers by Brian Michael Bendis: The Complete Collection Vol. 2 (2017)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/227",
+            "name": "Avengers Vol. 2: Red Zone (2003)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/271",
+            "name": "Avengers Vol. II: Red Zone (2003)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+            "name": "Captain America (1968 - 1996)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/1997",
+            "name": "Captain America (1998 - 2002)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/23810",
+            "name": "Captain America by Mark Waid, Ron Garney & Andy Kubert (2017)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/3743",
+            "name": "Defenders (1972 - 1986)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/8842",
+            "name": "Incredible Hulks (2010 - 2011)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/16583",
+            "name": "Indestructible Hulk (2012 - 2014)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/2029",
+            "name": "Iron Man (1968 - 1996)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/16593",
+            "name": "Iron Man (2012 - 2014)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/23915",
+            "name": "Iron Man Epic Collection: Doom (2018)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/9718",
+            "name": "Marvel Adventures Super Heroes (2010 - 2012)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/189",
+            "name": "Marvel Masterworks: Captain America Vol. 1 - 2nd Edition (2003)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/1506",
+            "name": "MARVEL MASTERWORKS: CAPTAIN AMERICA VOL. 1 HC (2005)"
+          }
+        ],
+        "returned": 20
+      },
+      "stories": {
+        "available": 54,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009144/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5800",
+            "name": "Avengers and Power Pack Assemble! (2006) #2",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5801",
+            "name": "2 of 4 - 4XLS",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10253",
+            "name": "When the Unliving Strike",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10255",
+            "name": "Cover #10255",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10256",
+            "name": "The Enemy Within!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10259",
+            "name": "Death Before Dishonor!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10261",
+            "name": "Cover #10261",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10262",
+            "name": "The End of A.I.M.!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11921",
+            "name": "The Red Skull Lives!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11930",
+            "name": "He Who Holds the Cosmic Cube",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11936",
+            "name": "The Maddening Mystery of the Inconceivable Adaptoid!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11981",
+            "name": "If This Be... Modok",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11984",
+            "name": "A Time to Die -- A Time to Live!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11995",
+            "name": "At the Mercy of the Maggia",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15243",
+            "name": "Look Homeward, Avenger",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17518",
+            "name": "Captain America (1968) #132",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17519",
+            "name": "The Fearful Secret of Bucky Barnes",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17520",
+            "name": "Captain America (1968) #133",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17521",
+            "name": "Madness In the Slums",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/28233",
+            "name": "In Sin Airy X",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 20
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009144/events",
+        "items": [],
+        "returned": 0
+      },
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/characters/77/aim.?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "wiki",
+          "url": "http://marvel.com/universe/A.I.M.?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "comiclink",
+          "url": "http://marvel.com/comics/characters/1009144/aim.?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        }
+      ]
+    },
+    {
+      "id": 1009146,
+      "name": "Abomination (Emil Blonsky)",
+      "description": "Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation similar to that which transformed Bruce Banner into the incredible Hulk.",
+      "modified": "2012-03-20T12:32:12-0400",
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce18691cbf04",
+        "extension": "jpg"
+      },
+      "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009146",
+      "comics": {
+        "available": 55,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009146/comics",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17547",
+            "name": "Avengers (1998) #61"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17548",
+            "name": "Avengers (1998) #62"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1098",
+            "name": "Avengers Vol. 1: World Trust (Trade Paperback)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8557",
+            "name": "Earth X (1999) #7"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4241",
+            "name": "EARTH X TPB [NEW PRINTING] (Trade Paperback)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20863",
+            "name": "Hulk (2008) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2499",
+            "name": "Hulk: Destruction (2005) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14424",
+            "name": "Hulk (1999) #24"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14425",
+            "name": "Hulk (1999) #25"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14428",
+            "name": "Hulk (1999) #28"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14450",
+            "name": "Hulk (1999) #50"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14451",
+            "name": "Hulk (1999) #51"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14453",
+            "name": "Hulk (1999) #53"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/14454",
+            "name": "Hulk (1999) #54"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8948",
+            "name": "Incredible Hulk (1962) #137"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/8982",
+            "name": "Incredible Hulk (1962) #171"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9005",
+            "name": "Incredible Hulk (1962) #194"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9006",
+            "name": "Incredible Hulk (1962) #195"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9007",
+            "name": "Incredible Hulk (1962) #196"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/9011",
+            "name": "Incredible Hulk (1962) #200"
+          }
+        ],
+        "returned": 20
+      },
+      "series": {
+        "available": 27,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009146/series",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+            "name": "Avengers (1998 - 2004)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/158",
+            "name": "Avengers Vol. 1: World Trust (2003)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/378",
+            "name": "Earth X (1999 - 2000)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/1806",
+            "name": "EARTH X TPB [NEW PRINTING] (2006)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/3374",
+            "name": "Hulk (2008 - 2012)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+            "name": "Hulk (1999 - 2008)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/924",
+            "name": "Hulk: Destruction (2005)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+            "name": "Incredible Hulk (1962 - 1999)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/2983",
+            "name": "Incredible Hulk Annual (1976 - 1994)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/22424",
+            "name": "Incredible Hulk Epic Collection: The Hulk Must Die (2017)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/212",
+            "name": "Incredible Hulk Vol. 4: Abominable (2003)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/244",
+            "name": "Incredible Hulk Vol. IV: Abominable (2003)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/8842",
+            "name": "Incredible Hulks (2010 - 2011)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/2572",
+            "name": "Iron Man (1998 - 2004)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/977",
+            "name": "Irredeemable Ant-Man (2006 - 2007)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/2423",
+            "name": "Irredeemable Ant-Man Vol. 1: Low-Life (2007)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/3722",
+            "name": "Killraven (2002 - 2003)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/2437",
+            "name": "KILLRAVEN PREMIERE HC (2007)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/32108",
+            "name": "Maestro: World War M (2022)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/21675",
+            "name": "Marvel Cinematic Universe Guidebook: The Avengers Initiative (2017)"
+          }
+        ],
+        "returned": 20
+      },
+      "stories": {
+        "available": 65,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009146/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4946",
+            "name": "4 of 4 - 4XLS",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5496",
+            "name": "Irredeemable Ant-Man (2006) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/12370",
+            "name": "Cover #12370",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/12372",
+            "name": "Whosoever Harms the Hulk..!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18419",
+            "name": "[none]",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18420",
+            "name": "The Stars Mine Enemy",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18488",
+            "name": "Incredible Hulk (1962) #171",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18489",
+            "name": "Revenge",
+            "type": ""
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18534",
+            "name": "Incredible Hulk (1962) #194",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18535",
+            "name": "The Day of the Locust!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18536",
+            "name": "Incredible Hulk (1962) #195",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18537",
+            "name": "Warfare In Wonderland!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18538",
+            "name": "Incredible Hulk (1962) #196",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18539",
+            "name": "The Abomination Proclamation!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18546",
+            "name": "Incredible Hulk (1962) #200",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18547",
+            "name": "An Intruder In the Mind!",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18776",
+            "name": "Cover #18776",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18877",
+            "name": "Incredible Hulk (1962) #364",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18878",
+            "name": "Countdown Part 4: The Abomination",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/18881",
+            "name": "Incredible Hulk (1962) #366",
+            "type": "cover"
+          }
+        ],
+        "returned": 20
+      },
+      "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009146/events",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+            "name": "Chaos War"
+          }
+        ],
+        "returned": 1
+      },
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/characters/81/abomination?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "wiki",
+          "url": "http://marvel.com/universe/Abomination?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "comiclink",
+          "url": "http://marvel.com/comics/characters/1009146/abomination_emil_blonsky?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        }
+      ]
+    },
+    {
+      "id": 1017100,
+      "name": "A-Bomb (HAS)",
+      "description": "Rick Jones has been Hulk's best bud since day one, but now he's more than a friend...he's a teammate! Transformed by a Gamma energy explosion, A-Bomb's thick, armored skin is just as strong and powerful as it is blue. And when he curls into action, he uses it like a giant bowling ball of destruction! ",
+      "modified": "2013-09-18T15:54:04-0400",
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5232158de5b16",
+        "extension": "jpg"
+      },
+      "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017100",
+      "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1017100/comics",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47176",
+            "name": "FREE COMIC BOOK DAY 2013 1 (2013) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40632",
+            "name": "Hulk (2008) #53"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40630",
+            "name": "Hulk (2008) #54"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40628",
+            "name": "Hulk (2008) #55"
+          }
+        ],
+        "returned": 4
+      },
+      "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1017100/series",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/17765",
+            "name": "FREE COMIC BOOK DAY 2013 1 (2013)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/3374",
+            "name": "Hulk (2008 - 2012)"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1017100/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/92078",
+            "name": "Hulk (2008) #55",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/92079",
+            "name": "Interior #92079",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/92082",
+            "name": "Hulk (2008) #54",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/92083",
+            "name": "Interior #92083",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/92086",
+            "name": "Hulk (2008) #53",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/92087",
+            "name": "Interior #92087",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/105929",
+            "name": "cover from Free Comic Book Day 2013 (Avengers/Hulk) (2013) #1",
+            "type": "cover"
+          }
+        ],
+        "returned": 7
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1017100/events",
+        "items": [],
+        "returned": 0
+      },
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/characters/76/a-bomb?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "comiclink",
+          "url": "http://marvel.com/comics/characters/1017100/a-bomb_has?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        }
+      ]
+    },
+    {
+      "id": 1010744,
+      "name": "Rocket Raccoon",
+      "description": "A genetically-engineered alien with a knack for big guns and fast ships, Rocket serves as the backbone of the Guardians of the Galaxy!",
+      "modified": "2014-07-17T17:32:43-0400",
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/50fec1e49298a",
+        "extension": "jpg"
+      },
+      "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010744",
+      "comics": {
+        "available": 93,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010744/comics",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60151",
+            "name": "A YEAR OF MARVELS TPB (Trade Paperback)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/57931",
+            "name": "A Year of Marvels: September Infinite Comic (2016) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22433",
+            "name": "ANNIHILATION CLASSIC HC (Hardcover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21016",
+            "name": "Annihilation: Conquest (2007) #6"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16009",
+            "name": "Annihilation: Conquest - Starlord (2007) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16191",
+            "name": "Annihilation: Conquest - Starlord (2007) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16598",
+            "name": "Annihilation: Conquest - Starlord (2007) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16599",
+            "name": "Annihilation: Conquest - Starlord (2007) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36644",
+            "name": "Annihilators (2010) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36647",
+            "name": "Annihilators (2010) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38640",
+            "name": "Annihilators (2010) #2 (DAVIS VARIANT)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36646",
+            "name": "Annihilators (2010) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38641",
+            "name": "Annihilators (2010) #3 (DJURDJEVIC VARIANT)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36645",
+            "name": "Annihilators (2010) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38643",
+            "name": "Annihilators (2010) #4 (VARIANT)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39982",
+            "name": "Annihilators: Earthfall (2011) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39981",
+            "name": "Annihilators: Earthfall (2011) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39980",
+            "name": "Annihilators: Earthfall (2011) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/71436",
+            "name": "Avengers No Road Home (2019) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/71441",
+            "name": "Avengers No Road Home (2019) #8"
+          }
+        ],
+        "returned": 20
+      },
+      "series": {
+        "available": 43,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010744/series",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/22102",
+            "name": "A YEAR OF MARVELS TPB (2017)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/21115",
+            "name": "A Year of Marvels: September Infinite Comic (2016)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/6056",
+            "name": "ANNIHILATION CLASSIC HC (2008)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/3061",
+            "name": "Annihilation: Conquest (2007)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/2541",
+            "name": "Annihilation: Conquest - Starlord (2007)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/13025",
+            "name": "Annihilators (2010 - 2011)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/14818",
+            "name": "Annihilators: Earthfall (2011)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/26034",
+            "name": "Avengers No Road Home (2019)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/18455",
+            "name": "Captain Marvel (2014 - 2015)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/23913",
+            "name": "Deadpool Classic Vol. 21: DvX (2018)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/21104",
+            "name": "Deadpool: Too Soon? Infinite Comic (2016)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/22114",
+            "name": "DEADPOOL: TOO SOON? TPB (2017)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/27311",
+            "name": "Edge Of Venomverse (2020)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/18856",
+            "name": "Free Comic Book Day (Rocket Raccoon) (2014)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/31557",
+            "name": "Giant-Size Little Marvels Infinity Comic (2021 - Present)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/20807",
+            "name": "Guardians of Infinity (2015 - 2016)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/4885",
+            "name": "Guardians of the Galaxy (2008 - 2010)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/26480",
+            "name": "Guardians of the Galaxy (2019)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/16410",
+            "name": "Guardians of the Galaxy (2013 - 2015)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/26496",
+            "name": "Guardians Of The Galaxy Vol. 2: Faithless (2020)"
+          }
+        ],
+        "returned": 20
+      },
+      "stories": {
+        "available": 103,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010744/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32691",
+            "name": "Annihilation Conquest: Starlord (2007) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33072",
+            "name": "Annihilation Conquest: Starlord (2007) #2",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33476",
+            "name": "Annihilation Conquest: Starlord (2007) #3",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33478",
+            "name": "Annihilation Conquest: Starlord (2007) #4",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/45693",
+            "name": "Annihilation: Conquest (2007) #6",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50616",
+            "name": "ROCKET RACCOON (1985) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50617",
+            "name": "Interior #50617",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50618",
+            "name": "ROCKET RACCOON (1985) #2",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50619",
+            "name": "Interior #50619",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50620",
+            "name": "ROCKET RACCOON (1985) #3",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50621",
+            "name": "Interior #50621",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50622",
+            "name": "ROCKET RACCOON (1985) #4",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50623",
+            "name": "Interior #50623",
+            "type": "interiorStory"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55852",
+            "name": "Cover #55852",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74276",
+            "name": "Cover #74276",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74282",
+            "name": "Cover #74282",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74286",
+            "name": "Cover #74286",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74290",
+            "name": "Cover #74290",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74294",
+            "name": "Cover #74294",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74296",
+            "name": "Cover #74296",
+            "type": "cover"
+          }
+        ],
+        "returned": 20
+      },
+      "events": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010744/events",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/events/293",
+            "name": "Annihilation: Conquest"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+            "name": "Marvel NOW!"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/events/295",
+            "name": "Realm of Kings"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+            "name": "The Thanos Imperative"
+          }
+        ],
+        "returned": 4
+      },
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/characters/1010744/rocket_raccoon?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "wiki",
+          "url": "http://marvel.com/universe/Rocket_Raccoon?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "comiclink",
+          "url": "http://marvel.com/comics/characters/1010744/rocket_raccoon?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        }
+      ]
+    },
+    {
+      "id": 1010769,
+      "name": "Rocket Racer",
+      "description": "",
+      "modified": "1969-12-31T19:00:00-0500",
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c0037551d8c2",
+        "extension": "jpg"
+      },
+      "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010769",
+      "comics": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010769/comics",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48428",
+            "name": "Amazing Spider-Man (1999) #13"
+          }
+        ],
+        "returned": 1
+      },
+      "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010769/series",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+            "name": "Amazing Spider-Man (1999 - 2013)"
+          }
+        ],
+        "returned": 1
+      },
+      "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010769/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113166",
+            "name": "Amazing Spider-Man (1999) #13",
+            "type": "cover"
+          }
+        ],
+        "returned": 1
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010769/events",
+        "items": [],
+        "returned": 0
+      },
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/characters/2822/rocket_racer?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "wiki",
+          "url": "http://marvel.com/universe/Rocket_Racer?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        },
+        {
+          "type": "comiclink",
+          "url": "http://marvel.com/comics/characters/1010769/rocket_racer?utm_campaign=apiRef&utm_source=ff7d1b4aefa575448f941959adefe76d"
+        }
+      ]
+    }
+  ]
+}
