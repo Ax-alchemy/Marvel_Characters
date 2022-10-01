@@ -26,9 +26,9 @@ const CharacterCard = (props) => {
 
     return (
         <>
-            <div className="card col col-md-3" style={{ width: "18rem", margin: "3rem 1rem 2rem 1rem" }}>
+            <div className="card col col-md-3 col-lg-3" style={{ width: "18rem", height:"auto", margin: "3rem 1rem 2rem 1rem" }}>
                 <button className="btn" onClick={popup} style={{ marginBottom: "8px" }}>
-                    <img className="card-img-top" src={img_url} alt="Card image cap" style={{ height: "250px", width: "250px" }} />
+                    <img className="card-img-top" src={img_url} alt="Card image cap" style={{  height:"18vw", width: "18vw"}} />
                     <div className="card-body">
                         <h5 className="card-title" style={{ textAlign: "center" }}>{character.name}</h5>
                     </div>

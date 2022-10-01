@@ -3,6 +3,7 @@ import CharacterCard from "./CharacterCard";
 import api from '../api/characters';
 import Loader from "./Loader";
 import { Link } from "react-router-dom";
+import {useCookies} from 'react-cookie';
 
 const Characters = (props) => {
     const inputE = useRef("");
@@ -12,21 +13,23 @@ const Characters = (props) => {
     const offset = props.offset;
     const loader = props.loader;
     const [searchKey, setSearchKey] = useState("");
+    const [cookies, setCookie, removeCookie] = useCookies(['skey']);
 
     //fetch the search key from the search bar, and set to searchKey and also pass the value to parent component
     const getSearchTerm = () => {
+        setCookie('skey', inputE.current.value, { path: '/' });
         setSearchKey(inputE.current.value);
-        props.searchKey(inputE.current.value);
+        props.searchKey(cookies.skey);
     }
 
     //when clicked on next, increase page count. Pass both page count and searchKey to the parent component
     const next = () => {
-        props.next(pagecount + 1, searchKey);
+        props.next(pagecount + 1, cookies.skey);
     }
 
     //when clicked on prev, decrease page count. Pass both page count and searchKey to the parent component
     const prev = () => {
-        props.prev(pagecount - 1, searchKey);
+        props.prev(pagecount - 1, cookies.skey);
     }
 
     //when clicked on save, it checks if the character is already saved. if it is saved then ignore it, otheriwse save it

@@ -16,13 +16,13 @@ const SavedCharacters = (props) => {
         );
     });
     return(
-        <div>
-            <div style={{ width: "100%", display: "flex" }}>
-                <div className='row' style={{ margin: "auto" }}>
+        <>
+            <div style={{ width: "100%", display: "flex",alignContent: "center" }}>
+                <div className='row' style={{ margin: "auto", justifyContent:"center" }}>
                     {renderCharacters.length > 0 ? renderCharacters : "No characters available"}
                 </div>
             </div>
-        </div>
+        </>
     );
 }
 
