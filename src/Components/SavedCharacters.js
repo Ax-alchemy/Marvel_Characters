@@ -1,6 +1,6 @@
 import React from "react";
 import CharacterCard from "./CharacterCard";
-import api from '../api/characters'
+import api from '../api/characters';
 
 const SavedCharacters = (props) => {
     //delete a character from saved character

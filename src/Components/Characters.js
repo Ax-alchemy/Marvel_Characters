@@ -1,9 +1,8 @@
-import React, { useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import CharacterCard from "./CharacterCard";
 import api from '../api/characters';
 import Loader from "./Loader";
 import { Link } from "react-router-dom";
-import {useCookies} from 'react-cookie';
 
 const Characters = (props) => {
     const inputE = useRef("");
@@ -12,24 +11,21 @@ const Characters = (props) => {
     const curCount = props.curCount;
     const offset = props.offset;
     const loader = props.loader;
-    const [searchKey, setSearchKey] = useState("");
-    const [cookies, setCookie, removeCookie] = useCookies(['skey']);
+    let searchKey = props.skey;
 
     //fetch the search key from the search bar, and set to searchKey and also pass the value to parent component
     const getSearchTerm = () => {
-        setCookie('skey', inputE.current.value, { path: '/' });
-        setSearchKey(inputE.current.value);
-        props.searchKey(cookies.skey);
+        props.searchKey(inputE.current.value);
     }
 
     //when clicked on next, increase page count. Pass both page count and searchKey to the parent component
     const next = () => {
-        props.next(pagecount + 1, cookies.skey);
+        props.next(pagecount + 1, searchKey);
     }
 
     //when clicked on prev, decrease page count. Pass both page count and searchKey to the parent component
     const prev = () => {
-        props.prev(pagecount - 1, cookies.skey);
+        props.prev(pagecount - 1, searchKey);
     }
 
     //when clicked on save, it checks if the character is already saved. if it is saved then ignore it, otheriwse save it
@@ -66,7 +62,7 @@ const Characters = (props) => {
             <div className="input-group" style={{ width: "100%", display: "flex", margin: "2rem" }}>
                 <div className="form-outline" style={{ margin: "auto", display: "inline-block" }}>
                     <input ref={inputE} type="search" id="form1" className="form-control"
-                        onChange={getSearchTerm}/>
+                        onChange={getSearchTerm} defaultValue={searchKey}/>
                 </div>
                 <div style={{ display: "inline-block", marginRight: "8%", marginLeft: "-8%" }}>
                     <Link to='/savedCharacters' onClick={savedCharacters}>
@@ -81,12 +77,6 @@ const Characters = (props) => {
                     </div>
                 </div>
             }
-            {/* <!-- Button trigger modal --> */}
-            {/* <button type="button" className="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
-                Launch demo modal
-            </button> */}
-
-            {/* <!-- Modal --> */}
             {loader ? "" :
                 <div style={{ width: "100%", display: "flex" }}>
                     <div style={{ margin: "auto" }}>

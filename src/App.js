@@ -107,6 +107,7 @@ function App() {
             total={total}
             offset={offset}
             loader={loader}
+            skey={searchKey}
             next={nextHandler}
             prev={prevHandler}
             saved={savedCharactersHandler}
